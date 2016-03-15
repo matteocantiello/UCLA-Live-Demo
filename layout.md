@@ -3,6 +3,7 @@ untitled.html
 figures/magnetic_diffusivity/magnetic_diffusivity.png
 div_There_is_some_disagreement__.html
 This_convergence_of_warm_air__.html
+figures/open-access-costs/open-access-costs.png
 latex.tex
 div_Tornadoes_have_been_observed__.html
 div_There_is_some_disagreement__1.html
